@@ -1,8 +1,6 @@
 package com.example.boeing301;
 
-public abstract class Shape {
+public class Rectangle extends Shape {
     private int x;
     private int y;
-    String color = "$Red";
 }
-
